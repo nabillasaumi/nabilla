@@ -1,0 +1,10 @@
+class User {
+
+  public function__construct() {
+    echo "constructed";
+
+  }
+
+}
+
+$n = new User();
